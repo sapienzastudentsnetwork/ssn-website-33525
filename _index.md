@@ -1,5 +1,6 @@
 ---
 title: Home
+aliases: ["/31299"]
 bookToc: False
 ---
 

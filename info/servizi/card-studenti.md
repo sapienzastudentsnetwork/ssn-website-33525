@@ -1,5 +1,6 @@
 ---
 title: Card Studenti
+aliases: ["/31299/info/servizi/card-studenti"]
 bookToc: False
 weight: 8
 ---

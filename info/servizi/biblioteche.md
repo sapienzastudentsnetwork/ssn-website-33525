@@ -1,5 +1,6 @@
 ---
 title: Biblioteche e Aule Studio
+aliases: ["/31299/info/servizi/biblioteche"]
 weight: 1
 ---
 

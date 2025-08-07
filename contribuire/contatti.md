@@ -1,5 +1,6 @@
 ---
 title: "Contatti di riferimento"
+aliases: ["/31299/contribuire/contatti"]
 bookToC: false
 weight: 2
 layout: '31299'

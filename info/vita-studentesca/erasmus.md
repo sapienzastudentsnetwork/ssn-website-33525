@@ -1,5 +1,6 @@
 ---
 title: Erasmus
+aliases: ["/31299/info/vita-studentesca/erasmus"]
 weight: 1
 ---
 
