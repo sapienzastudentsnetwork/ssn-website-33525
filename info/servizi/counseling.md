@@ -1,5 +1,5 @@
 ---
-title: Counseling
+title: Counseling psicologico
 aliases: ["/31299/info/servizi/counseling"]
 weight: 4
 ---
