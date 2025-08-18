@@ -96,7 +96,7 @@ Gli Obblighi Formativi Aggiuntivi (OFA) in Italiano sono assegnati agli iscritti
 - Filosofia del linguaggio I.I (10611832)
 - Istituzioni di storia della filosofia antica (10596045)
 
-Ciò può essere fatto aggiungendo uno di questi esami al Percorso Formativo. Una guida alla sua compilazione si trova [qui](/33525/info/ABC/percorso-formativo).
+Ciò può essere fatto aggiungendo uno di questi esami al Percorso Formativo. Una guida alla sua compilazione si trova [qui](/33525/info/abc/percorso-formativo).
 
 {{% hint warning %}}
 <i class="fa-solid fa-triangle-exclamation" style="color: #FFD43B;"></i> **Attenzione**
