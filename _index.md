@@ -4,7 +4,7 @@ aliases: ["/31299"]
 bookToc: False
 ---
 
-<h1 align="center" id="title_grad_inform" class="title_grad" style="font-weight: 900">Filosofia</h1>
+<h1 align="center" id="title_grad_it" class="title_grad" style="font-weight: 900">Filosofia</h1>
 <p align="center" style="margin-top: -15px">Corso di Laurea Triennale in Filosofia</p>
 
 <div style="width: 90%; height: 1px; background-color: #606060; margin-left: auto; margin-right: auto"></div>
